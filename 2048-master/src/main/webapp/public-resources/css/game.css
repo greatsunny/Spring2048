@@ -1,0 +1,18 @@
+.my-container {
+	margin-top: 60px;
+}
+
+.s-container {
+	margin-top: 80px;
+}
+
+.width100percent {
+	width: 100%;
+}
+
+@media ( min-width : 768px) {
+	.width100percent {
+		margin-right: 0;
+		margin-left: 0;
+	}
+}
